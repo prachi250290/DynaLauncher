@@ -1,2 +1,3 @@
 rootProject.name = "DynaLauncher"
 include ':app'
+include ':dynalaunchersdk'
